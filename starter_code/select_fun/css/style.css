@@ -209,5 +209,12 @@ button {
 /* Your CSS goes here!
    ================================================================ */
 .fun {
+  background-color: cadetblue;
+  font-family: fantasy;
+  font-size: 3em;
   /* Add your styles here! background-color and color for fonts (and other styles if you'd like!) */
+}
+
+.hidden {
+  visibility: hidden;
 }
